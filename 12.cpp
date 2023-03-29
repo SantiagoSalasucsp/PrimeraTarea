@@ -20,7 +20,7 @@ cin>>f;
 cout<<"Ingrese su tarifa por estacionamiento";
 cin>>h;
 
-cout<<"Ingrese cuantas personas entran por día";
+cout<<"Ingrese cuantas personas entran por dia";
 cin>>x;
 
 l=((g/f)*p)+h+x;

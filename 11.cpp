@@ -11,7 +11,7 @@ int main() {
   cout << "Ahora coloque su altura en metros" << endl;
   cin >> altura;
   float imc = peso/(altura*altura);
-  cout << "Este es su Índice de Masa Corporal: "<< imc << endl;
+  cout << "Este es su Indice de Masa Corporal: "<< imc << endl;
   if (imc < 18.5) {
     cout << "Usted cuenta con Bajo peso";
   }

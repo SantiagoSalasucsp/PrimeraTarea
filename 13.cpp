@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
   int edad = 0;
-  cout<<"INgrese su edad";
+  cout<<"Ingrese su edad: ";
   cin >> edad;
   int primero = 220 - edad;
   cout <<  endl;
