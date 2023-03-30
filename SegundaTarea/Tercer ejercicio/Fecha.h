@@ -58,7 +58,8 @@ class Fecha{
         }
 
 
-        std::string fecha(){
+        
+         void fecha(){
             std::cout<<dia<<"/"<<mes<<"/"<<year<<std::endl;
             
         }

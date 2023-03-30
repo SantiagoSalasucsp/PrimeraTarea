@@ -16,6 +16,7 @@ cin>> x;
 Cuenta1.ingresar(x);
 cout<<"Ustede tiene: "<<Cuenta1.mostrar()<<endl;
 Cuenta1.Retirar(55);
+cout<<"Usted ahora tiene: "<<Cuenta1.mostrar()<<endl;
 Cuenta1.ingresar(20);
 cout<<"Usted tiene: "<<Cuenta1.mostrar()<<endl;
 

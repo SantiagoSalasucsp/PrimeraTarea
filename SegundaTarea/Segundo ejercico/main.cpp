@@ -11,6 +11,7 @@ int main(){
     cin>>x;
     Carro1.setyear(x);
     cout<<"Ingrese la capacidad del motor: "<<endl;
+    cin>>x;
     Carro1.setCapasidadDelMotor(x);
 
 

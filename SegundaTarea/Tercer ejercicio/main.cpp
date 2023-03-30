@@ -6,7 +6,7 @@ using namespace std;
 
 int main(){
 
-Fecha primera(29,2,2023);
+Fecha primera(29,2,2024);
 
 primera.fecha();
 
